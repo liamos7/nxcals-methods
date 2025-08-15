@@ -521,7 +521,7 @@ def plotStatsVector(data, user):
 
 def plotStatsTensor(data, user, time):
     """
-    Plots selected time-averaged 2D array field over its indexer at any point in time
+    Plots min/max/mean/stddev of selected 2D array field over its indexer at any point in time
 
     Parameters
     ----------
