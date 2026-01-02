@@ -1,6 +1,6 @@
 # nxcals-methods
 
-NXCALS data extraction, analysis, and visualization API
+##NXCALS data extraction, analysis, and visualization API
 
 Liam O'Shaughnessy (Princeton '26, physics) under the supervision of Amaury Beeckman - CERN Beams Department Operations Group, Proton Synchrotron - 2025 CERN Summer Student Program.
 
