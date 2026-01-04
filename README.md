@@ -11,4 +11,4 @@ The methods contained in nxcalsExtractors.py fit more or less into three groups.
 
 ## Longitudinal Beam Tomography Report
 
-The data that is pulled from NXCALS is from a specific source called LBO, a tomography system meant to replace the existing Tomoscope used by BE-OP. Another part of my work was to benchmark the two systems to show that the LBO system can replace the Tomoscope, as I detail in the report attached, which is also available here: https://repository.cern/records/8sxe2-r0722 
+The data that is pulled from NXCALS is from a specific source called LBO, a tomography system meant to replace the existing Tomoscope used by BE-OP. Another part of my work was to benchmark the two systems to show that the LBO system can replace the Tomoscope, as I detail in the report above, which is also available here: https://repository.cern/records/8sxe2-r0722. Notebooks used for this and the NXCALS extractors are available in the notebooks folder.
